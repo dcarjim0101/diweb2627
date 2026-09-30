@@ -10,6 +10,7 @@
     <!-- imagen de cabecera -->
     <img src="cabecera.png" alt="imagen de cabecera">
     
+    // la cabecera conceptualmente podria verse como un plano de forma rectagular con el color principal dela marca como color de fondo y una textura que imite la piel.
     <!-- cabecera -->
     <header>
         <img src="logo.png" alt="logotipo de tienda">
@@ -19,16 +20,20 @@
         <a href="tendencias.html">tendencias</a>
     </header>
 
+    // un elemento visual de los productos aportan forma, color, tamaño y textura a la composicion visual de la pagina.
     <!-- productos -->
     <main>
         <h2>productos</h2>
         <p>descubre estos productos</p>
         <img src="producto1.png" alt="producto 1">
         <img src="producto2.png" alt="producto 2">
+
+        // la linea horizontal es un elemento relacional que separa visualmente los diferentes productos y crea una division entre ellos.
         <hr>
         <img src="producto3.png" alt="producto 3">
     </main>
 
+    // los enlaces son un elemento practico del menu que permiten al usuario desplazarse poor las diferentes secciones de la pagina.
     <!-- categorias -->
     <sidebar>
         <h2>categorias</h2>
