@@ -1,0 +1,8 @@
+1. el texto del encabezado de color gris se lee mal sobre el fondo morado.
+2. el titulo en el encabezado se lee mal porque estan muy juntas.
+3. hay muchas fuentes de letras en la pagina.
+4. muchos colores juntos sin relacion.
+5. "ver mas datos del producto" tiene un borde sin sentido y es dificil de ver por estar de color azul oscuro sobre el fondo negro.
+6. "reloj inteligente 2026" es muy pequeño y dificil de leer.
+7. las formas de las tarjetas es diferente y parecen de sitios distintos.
+8. hay mucha diferencia en el tamaño de las tarjetas.
